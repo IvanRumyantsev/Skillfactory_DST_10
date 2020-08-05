@@ -23,3 +23,4 @@
 ## Другие источники
 
 1. [mathprofi](http://www.mathprofi.ru/ "Классный ресурс по математике!")
+2. [Windows PowerShell](https://docs.microsoft.com/ru-ru/powershell/scripting/learn/ps101/00-introduction?view=powershell-7)
