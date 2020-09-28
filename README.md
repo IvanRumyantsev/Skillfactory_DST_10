@@ -36,8 +36,8 @@
     - PYTHON-C2. Тестирование и отладка кода
     - *MATH&STAT-4. Оптимизация для Machine Learning
     - **Проект 5. Выбираем авто выгодно**(16.09.2020)
-- ЮНИТ 7. MACHINE LEARNING В ПРОДАКШЕН
-    - MATH&STAT-7. Временные ряды
+- [ЮНИТ 7. MACHINE LEARNING В ПРОДАКШЕН](https://github.com/IvanRumyantsev/Skillfactory_DST_10/tree/master/Юнит%207.%20Machine%20Learning%20в%20продакшн)
+    - [MATH&STAT-7. Временные ряды](https://github.com/IvanRumyantsev/Skillfactory_DST_10/tree/master/Юнит%207.%20Machine%20Learning%20в%20продакшн/MATH%26STAT-7.%20Временные%20ряды)
     - ML-8. Временные ряды в машинном обучении
     - ML-9. Рекомендательные системы в МО
     - PROD-1. Практический Linux
