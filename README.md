@@ -96,3 +96,6 @@
 - [5 алгоритмов регрессии в машинном обучении, о которых вам следует знать](https://habr.com/ru/company/mailru/blog/513842/)
 - [mathprofi](http://www.mathprofi.ru/ "Классный ресурс по математике!")
 - [Windows PowerShell](https://docs.microsoft.com/ru-ru/powershell/scripting/learn/ps101/00-introduction?view=powershell-7)
+
+## Полезные ссылки
+- [Справочник формул LaTeX](https://ru.wikibooks.org/wiki/Математические_формулы_в_LaTeX#List_of_mathematical_symbols)
